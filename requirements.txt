@@ -123,7 +123,7 @@ dpkt==1.8.8
 dumbnet==1.12
 easygui==0.98.1
 EasyProcess==0.2.3
-ecdsa==0.13
+ecdsa==0.13.3
 EditorConfig==0.12.1
 Elixir==0.7.1
 entrypoints==0.2.2
