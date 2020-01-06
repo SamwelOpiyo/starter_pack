@@ -473,7 +473,7 @@ voluptuous==0.9.3
 vulndb==0.0.19
 w3lib==1.17.0
 wafw00f==0.9.4
-waitress==1.0.2
+waitress==1.4.2
 wapiti==2.3.0
 watchdog==0.8.3
 wcwidth==0.1.7
