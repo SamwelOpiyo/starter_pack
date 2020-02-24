@@ -26,7 +26,7 @@ beautifulsoup4==4.5.3
 billiard==3.3.0.23
 binaryornot==0.4.0
 BlazeUtils==0.5.2
-bleach==1.5.0
+bleach==3.1.1
 BlindElephant==1.0
 blinker==1.4
 boltons==17.1.0
