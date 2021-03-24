@@ -401,7 +401,7 @@ rfidiot==1.0
 rjsmin==1.0.12
 roman==2.0.0
 rope==0.10.5
-rsa==3.4.2
+rsa==4.1
 ruamel.ordereddict==0.4.9
 scandir==1.5
 scapy==2.3.3
