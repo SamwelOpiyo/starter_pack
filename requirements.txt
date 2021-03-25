@@ -379,7 +379,7 @@ pyusb==1.0.0
 PyVirtualDisplay==0.2.1
 PyX==0.12.1
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 qrcode==5.3
 qt4reactor==1.6
