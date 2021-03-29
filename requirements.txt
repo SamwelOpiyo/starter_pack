@@ -317,7 +317,7 @@ pyflakes==1.5.0
 pygame==1.9.3
 pygeoip==0.3.2
 PyGithub==1.32
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pygraphviz==1.4rc1
 pyinotify==0.9.6
