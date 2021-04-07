@@ -30,7 +30,7 @@ bleach==1.5.0
 BlindElephant==1.0
 blinker==1.4
 boltons==17.1.0
-bottle==0.12.13
+bottle==0.12.19
 brotlipy==0.6.0
 bs4==0.0.1
 capstone==3.0.4
