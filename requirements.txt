@@ -217,7 +217,7 @@ lxml==3.7.3
 M2Crypto==0.24.0
 Mako==1.0.6
 Markdown==2.6.8
-markdown2==2.3.3
+markdown2==2.4.0
 MarkupSafe==0.23
 matplotlib==2.0.0
 maxminddb==1.2.3
