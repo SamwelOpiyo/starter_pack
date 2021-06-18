@@ -181,7 +181,7 @@ hyperframe==4.0.2
 icalendar==3.11.3
 idna==2.2
 imagesize==0.7.1
-impacket==0.9.15
+impacket==0.9.23
 imutils==0.3.10
 incremental==16.10.1
 ipaddress==1.0.18
