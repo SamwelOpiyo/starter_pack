@@ -227,7 +227,7 @@ mercurial==4.1
 metaconfig==0.1.4
 Mezzanine==4.2.2
 mistune==0.7.4
-mitmproxy==0.18.3
+mitmproxy==7.0.3
 mock==2.0.0
 mockito==1.0.11
 mpmath==0.19
