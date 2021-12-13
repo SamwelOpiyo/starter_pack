@@ -213,7 +213,7 @@ kombu==4.0.2
 lazy-object-proxy==1.2.2
 libvirt-python==3.0.0
 Logbook==1.0.0
-lxml==3.7.3
+lxml==4.6.5
 M2Crypto==0.24.0
 Mako==1.0.6
 Markdown==2.6.8
