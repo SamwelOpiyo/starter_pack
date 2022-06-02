@@ -172,7 +172,7 @@ halberd==0.2.4
 homeassistant==0.24.1
 hpack==2.3.0
 html2text==2016.9.19
-html5lib==0.9999999
+html5lib==0.99999999
 http-parser==0.8.3
 httplib2==0.10.3
 httpretty==0.8.14
